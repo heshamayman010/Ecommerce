@@ -1,0 +1,151 @@
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\appsettings.Development.json
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Humanizer.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api Projects\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.Ecommerce.props
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets.build.json
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets.development.json
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\scopedcss\bundle\Ecommerce.styles.css
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CopyComplete
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+D:\Api Projects\Ecommerce\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\appsettings.json
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.Ecommerce.props
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.props
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ecommerce.props
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CopyComplete
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll
+C:\Users\Amr\OneDrive\Desktop\Ecommerce\Ecommerce\bin\Debug\net6.0\Ecommerce.staticwebassets.runtime.json

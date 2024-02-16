@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <select id="cat">
+        <option value="0">choose one categoty </option>
+        <option value="3">Tablets </option>
+        <option value="4">  Phone </option>
+        <option value="5">  Labtops</option>
+        <option value="2">  Cameras </option>
+    </select>
+
+    <div id="toshow"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script>
+
+        // the code of the ajax
+
+$(document).ready(function () {
+    $("#cat").on("change", function () {
+        var categoryId = $(this).val();
+
+        $.ajax({
+            method: "GET",
+            url: "https://localhost:7085/api/Products/bycategory/" + categoryId,
+            dataType: "json",
+            success: function (result) {
+                document.getElementById("toshow").innerHTML = "";
+
+                for (let pro of result) {
+                    document.getElementById("toshow").innerHTML +=
+                        " <li>" + pro.name + "</li>";
+                }
+            },
+            error: function (xhr, status, error) {
+                console.log("Error:", xhr.responseText);
+            }
+        });
+    });
+});
+
+    </script>
+
+</body>
+</html>

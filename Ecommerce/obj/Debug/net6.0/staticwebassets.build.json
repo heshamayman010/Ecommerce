@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0MEuYojE4yRbToKw39OTpm4IqhMt9psq7kqrup+Mzvw=",
+  "Source": "Ecommerce",
+  "BasePath": "_content/Ecommerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ecommerce\\wwwroot",
+      "Source": "Ecommerce",
+      "ContentRoot": "C:\\Users\\Amr\\OneDrive\\Desktop\\Ecommerce\\Ecommerce\\wwwroot\\",
+      "BasePath": "_content/Ecommerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
